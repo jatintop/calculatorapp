@@ -24,16 +24,6 @@ The project follows a standard Android Studio structure:
   
 - **`AndroidManifest.xml`**: Standard Android manifest file for app permissions and activity declarations.
 
-## Installation
-To run this app on your local machine:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/scientific-calculator-app.git
-    ```
-2. Open the project in Android Studio.
-3. Build and run the app on an Android device or emulator.
-
 ## Usage
 1. Launch the app.
 2. Use the numeric buttons and operators to perform calculations.
